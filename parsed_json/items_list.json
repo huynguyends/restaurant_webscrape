@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "Brainwave Cafe",
+    "address": "94/732 Harris St, Ultimo, Sydney, New South Wales",
+    "phone": "+61-404016006",
+    "open_hours": "Closed temporarily",
+    "cuisine": "Cuisine: Vegan, Thai, Fast food, Asian, Fusion, Australian, Breakfast",
+    "description": "Crafting food with Asian influences juxtaposed with modern Australian. Features dishes like burgers like 'pulled pork' and 'fissh burgers' all topped with relish and sauces; stir fries and salads; additional options like deep-fried mushrooms and tofu salads served with vegan dressing; mango chia pudding and creme brulee with coconut sorbet for dessert. Beverages are coffee, cold brew coffee, cold press juices, and organic teas. Fully vegan since August 2020."
+  },
+  {
+    "name": "Bodhi in the Park",
+    "address": "4 College St, Sydney, New South Wales",
+    "phone": "+61-293602523",
+    "open_hours": "Mon-Sat 11:00am-3:00pm, Tue-Sat 5:00pm-10:00pm, Sun 11:00am-4:00pm",
+    "cuisine": "Cuisine: Vegan, Chinese, Juice bar, Beer/Wine, Asian",
+    "description": "Finer dining set amongst Hyde Park by St Mary's Cathedral. Serves yum cha at lunch with dishes coming out regularly from the kitchen during peak time. Asian style meals at dinner. No garlic or onion used. Fully vegan, including alcohol, since Jun 2019. Instagram @bodhirestaurantbar."
+  },
+  {
+    "name": "Bodhi Restaurant Bar",
+    "address": "2-4 College St, Sydney, New South Wales",
+    "phone": "+61-293602523",
+    "open_hours": "Tue-Sat 11:00am-3:00pm, Tue-Sun 5:00pm-10:00pm, Sun 11:00am-4:00pm",
+    "cuisine": "Cuisine: Vegan, Asian",
+    "description": "An all-vegan Asian restaurant/bar located in the middle of the City."
+  },
+  {
+    "name": "Iku Wholefoods Kitchen - Martin Place",
+    "address": "MLC Centre Food Court, Martin Place (at Pitt St), Sydney, New South Wales",
+    "phone": "+61-292338001",
+    "open_hours": "Mon-Fri 8:30am-4:00pm",
+    "cuisine": "Cuisine: Vegan, Macrobiotic, Fast food, Take-out",
+    "description": "Ready made meals for dine-in or takeaway."
+  },
+  {
+    "name": "Joe's Sandwich Bar",
+    "address": "292 Kent St, Sydney CBD, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon-Fri 11:30am-3:00pm",
+    "cuisine": "Cuisine: Vegan, Western, Fast food, Take-out",
+    "description": "Vegan sandwich bar opened 2017. Serves coffee, treats, and sandwiches with different fillings such as tempeh reuben, miso eggplant, mock salmon, and greens. No telephone - contact via social media. Instagram @joessandwichbar."
+  },
+  {
+    "name": "Sanga",
+    "address": "5/655 King St, St Peters, Sydney, New South Wales",
+    "phone": "+61-416844700",
+    "open_hours": "Thu 7:30am-8:30pm, Fri 11:30am-9:30pm, Sat 10:00am-9:30pm",
+    "cuisine": "Cuisine: Vegan, American, Fast food, Take-out, Bakery",
+    "description": "Vegan subway style bar. A project of Bhavani Baumann who co-founded Australia\u2019s first vegan pub bistro - The Green Lion, in 2016. Offers freshly baked hot rolls with fillings and sauces to build own. Has a pie range, gluten free rolls and salad bowls on the menu too. Sweets include a range of house-made soft style cookies, cheesecake cups and lamingtons. Also has a range of beers, wines and cocktails. Open since Nov '21."
+  },
+  {
+    "name": "Voodie Burger ",
+    "address": "Broadway Shopping Centre, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Now Open:                     Mon-Wed 5:00pm-9:00pm, Thu-Sat 5:00pm-10:00pm, Sun 5:00pm-9:00pm",
+    "cuisine": "Cuisine: Vegan, American, Fast food, Delivery, Take-out, Fusion, Australian",
+    "description": "Kiosk 230 inside Broadway Shopping Centre serving fully vegan burgers in fusion flavors. Est. 2020. May get delivery via ubereats."
+  },
+  {
+    "name": "Alibi",
+    "address": "6 Cowper Wharf Roadway, Woolloomooloo, Sydney, New South Wales",
+    "phone": "+61-293319088",
+    "open_hours": "Now Open:                     Mon-Wed 4:00pm-9:00pm, Thu-Fri 6:00pm-12:00am, Sat 12:00pm-12:00am, Sun 3:00pm-11:30pm",
+    "cuisine": "Cuisine: Vegan-friendly, Lacto, Organic, Raw, Western, Beer/Wine, Delivery, Take-out, Fusion, Australian",
+    "description": "A Matthew Kenney restaurant & bar, est. 2018 inside Ovolo Hotel. Offers gourmet plant-based cuisine that's mostly vegan except for dairy cheese and milk options and non-vegan alcohol. Instagram @alibisydney. Confirmed open May 2020."
+  },
+  {
+    "name": "Flyover Fritterie & Chai Bar",
+    "address": "1 Temperance Lane, Sydney, New South Wales",
+    "phone": "+61-415908085",
+    "open_hours": "Mon-Fri 11:00am-3:00pm",
+    "cuisine": "Cuisine: Lacto, Indian, Fast food, Take-out, Fusion, Gluten-free",
+    "description": "Fritterie and chai bar est. 2019 in the laneway next to 389 George St, near the train stations Wynyard and Town Hall. Serves chickpea flour & vegetable pakoras (fritters), street style salads, quinoa khichri, pao burgers, and Indian chai (tea). Order at the window, and have your meal at one of the benches in the laneway. No longer fully vegan as of Oct 2021."
+  },
+  {
+    "name": "Health Nuts Shop & Cafe",
+    "address": "Shop TG04 82-94 Darlinghurst Rd, Kings Cross Centre, Potts Point, Sydney, New South Wales",
+    "phone": "+61-293315370",
+    "open_hours": "Now Open:                     Mon-Thu 7:00am-9:00pm, Fri 7:00am-8:00pm, Sat 8:00am-9:00pm, Sun 8:00am-6:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, Ovo, Organic, Raw, Western, Salad bar, Juice bar, Take-out, Gluten-free, Australian",
+    "description": "Organic cafe within the health food store where most of the dishes are vegan and gluten-free. Offers prepared salads bar and dishes like vegan cheeseburger, carrot dog, pulled \u2018vork\u2019 sliders, vegan egg, and quiche. Has cabinet selection of vegan cakes and raw desserts. Fresh juices, protein smoothies, and espresso drinks available."
+  },
+  {
+    "name": "Joy Veg Fruit Dining",
+    "address": "790 Canterbury Rd, Belmore, Sydney, New South Wales",
+    "phone": "+61-297404588",
+    "open_hours": "Tue-Sat 11:30am-2:00pm, 6:00pm-9:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, International, Western",
+    "description": "Finer vegetarian dining restaurant. Uses veggies and fruits. Limited seating, so book ahead. Enter on Allegra Ave."
+  },
+  {
+    "name": "Mother Chu's Vegetarian Kitchen",
+    "address": "367 Pitt Street, CBD, Sydney, New South Wales",
+    "phone": "+61-292832828",
+    "open_hours": "Closed temporarily",
+    "cuisine": "Cuisine: Vegan-friendly, Chinese, Japanese, Asian, Taiwanese, Honey",
+    "description": "One of handful of Asian vegetarian restaurants in Sydney. All vegan except honey."
+  },
+  {
+    "name": "Mr Percy",
+    "address": "139 Murray St, Pyramont, Sydney, New South Wales",
+    "phone": "+61-285861888",
+    "open_hours": "Now Open:                     Mon-Sat 5:00pm-11:00pm, Sun 5:00pm-10:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, Lacto, Beer/Wine, European",
+    "description": "Vegetarian wine bar and restaurant within the historic heart of Pyrmont."
+  },
+  {
+    "name": "Ojas Ayurvedic",
+    "address": "528 King St, Sydney, New South Wales",
+    "phone": "+61-450950276",
+    "open_hours": "Now Open:                     Mon-Sat 11:00am-8:00pm, Sun 11:00am-3:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, Lacto, Indian, Catering, Gluten-free",
+    "description": "Ayurvedic vegetarian cuisine restaurant opened 2021. Offers menu with 6 all-day menu dishes, 5 sattvic bowls, and evening thali platter with vegan options for all meals. Drinks are masala chai and moon milks with dairy or oat milk. Slices for dessert."
+  },
+  {
+    "name": "Orchard Street",
+    "address": "Shop 2, 2-16 Glenmore Rd, Paddington, Sydney, New South Wales",
+    "phone": "+61-293802772",
+    "open_hours": "Mon-Sat 8:30am-5:30pm",
+    "cuisine": "Cuisine: Organic, Raw, Juice bar, Take-out, Australian",
+    "description": "Juice and elixir bar offering smoothies, juices, raw dessert, and kombucha on tap plus prepared raw salads. Vegan except for bee pollen. Multiple locations, this one est. 2015."
+  },
+  {
+    "name": "Peace Harmony",
+    "address": "29 King St, Sydney, New South Wales",
+    "phone": "+61-292990419",
+    "open_hours": "Mon-Thu 11:00am-3:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, Thai, Take-out",
+    "description": "Small cafe serving veggie Thai food. Everything is vegan except for vitamilk (Thai) soy milk drink. Confirmed open December 2021."
+  },
+  {
+    "name": "Yellow",
+    "address": "57 Macleay St, Sydney, New South Wales",
+    "phone": "+61-293322344",
+    "open_hours": "Now Open:                     Mon-Fri 6:00pm-10:00pm, Sat-Sun 11:00am-10:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Beer/Wine, Take-out, European, French, Australian",
+    "description": "Upscale vegetarian dining restaurant and bar. A la carte and tasting menus. Focus is on heirloom varietals grown by local suppliers. Note: Vegan options may be quite limited. Confirmed open May 2020."
+  },
+  {
+    "name": "An Viet",
+    "address": "Shop 5, 185 Broadway, Ultimo, Sydney, New South Wales",
+    "phone": "+61-415181983",
+    "open_hours": "Now Open:                     Mon-Sun 11:00am-9:00pm",
+    "cuisine": "Cuisine: Asian, Vietnamese, Non-veg",
+    "description": "Serves meat, vegan options available. Vietnamese place right outside Broadway bus stop that has a vegetarian and vegan menu. Includes pho, vermicelli salad and veg rice paper rolls."
+  },
+  {
+    "name": "Arthur's Pizza",
+    "address": "260 Oxford St, Paddington, Sydney, New South Wales",
+    "phone": "+61-293322220",
+    "open_hours": "Now Open:                     Mon-Sun 12:00pm-10:00pm",
+    "cuisine": "Cuisine: Lacto, Pizza, Italian, Take-out, Non-veg",
+    "description": "Serves meat, vegan options available. Pizzeria with vegan pizzas on the menu."
+  },
+  {
+    "name": "Assembly Bar and Restaurant",
+    "address": "488 Kent St, Sydney, New South Wales",
+    "phone": "+61-292838808",
+    "open_hours": "Now Open:                     Mon-Sun 12:00pm-12:00am",
+    "cuisine": "Cuisine: Lacto, Pizza, Italian, Beer/Wine, Non-veg",
+    "description": "Serves meat, vegan options available. Bar and Italian restaurant on two floors. Menu has a couple of vegan pizzas listed plus the option to use vegan cheese on the vegetarian pizzas. Frequented by a younger crowd."
+  },
+  {
+    "name": "Audley Dancehall & Cafe",
+    "address": "2 Lady Carrington Drive, Royal National Park, Sydney, New South Wales",
+    "phone": "+61-295426222",
+    "open_hours": "Mon-Sun 8:30am-4:30pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Honey, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Offers vegan dishes marked on the menu. Includes a vegan big breakfast, smashed avocado, hash browns, vegan burger and 5 grain porridge."
+  },
+  {
+    "name": "Bare Naked Bowls",
+    "address": "145 Macpherson St, Bronte, Sydney, New South Wales",
+    "phone": "+61-280685034",
+    "open_hours": "Mon-Fri 7:00am-3:00pm, Sat-Sun 7:00am-4:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, Lacto, International, Organic, Raw, Take-out, Gluten-free, Honey, Breakfast, Non-veg",
+    "description": "Small chain of stores offering vegan items including smoothies, acai bowls, toasts and rice bowls. Also has a selection of plant milks for coffee tonics and tea."
+  },
+  {
+    "name": "Beirut Falafel",
+    "address": "254 Abercrombie St, Darlington, Sydney, New South Wales",
+    "phone": "+61-426494608",
+    "open_hours": "Mon-Fri 8:00am-4:00pm, Sat 8:00am-2:00pm",
+    "cuisine": "Cuisine: Lacto, Pizza, Mediterranean, Fast food, Juice bar, Middle Eastern, Non-veg",
+    "description": "Serves meat, vegan options available. Veg choices include falafel and cauliflower wraps, salads, fruit, juice."
+  },
+  {
+    "name": "Bentley Restaurant and Bar",
+    "address": "27 O'Connell St, Sydney, New South Wales",
+    "phone": "+61-282140505",
+    "open_hours": "Now Open:                     Mon-Fri 12:00pm-2:00pm, Mon-Sat 6:00pm-10:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, European, Non-veg",
+    "description": "Serves meat, vegan options available. Upscale dining and bar. Regular menu is very meat-focused but reported offering a separate 8-course vegan menu with matching vegan wine. Call ahead to see if a reservation is necessary."
+  },
+  {
+    "name": "Betty's Burgers",
+    "address": "Shop E-04, International Convention Centre, 14 Darling Dr, Sydney, New South Wales",
+    "phone": "+61-292127773",
+    "open_hours": "Now Open:                     Mon-Wed 11:30am-8:30pm, Thu 11:30am-9:00pm, Fri-Sat 11:30am-9:30pm, Sun 11:30am-8:30pm",
+    "cuisine": "Cuisine: Lacto, Ovo, American, Fast food, Non-veg",
+    "description": "Serves meat, vegan options available. Offers a vegan burger labelled on the menu with crispy fried brown rice and vegetable patty, tomato, lettuce, pickles, onion and spicy mayo."
+  },
+  {
+    "name": "Brooklyn Crispy",
+    "address": "2 Springfield Ave, Potts Point, Sydney, New South Wales",
+    "phone": "+61-434679464",
+    "open_hours": "Now Open:                     Mon-Thu 5:00pm-11:00pm, Fri-Sun 12:00pm-11:00pm",
+    "cuisine": "Cuisine: Lacto, Pizza, Italian, Take-out, Non-veg",
+    "description": "Serves meat, vegan options available. Pizzeria where the menu includes a vegetarian/vegan section. Dog-friendly space."
+  },
+  {
+    "name": "Cafe 10",
+    "address": "UTS Building 10, Jones St, Ultimo, Sydney, New South Wales",
+    "phone": "+61-295144764",
+    "open_hours": "Mon-Fri 6:00am-6:00pm, Sat 7:00am-2:00pm",
+    "cuisine": "Cuisine: Ovo, Fast food, Asian, Fusion, Non-veg",
+    "description": "Serves meat, vegan options available. Casual cafe with counter service in a university building. Vegan versions of noodle soups/bowls are advertised including pho and tom yum. Vegan premade option is the tofu rice paper rolls. Has a sandwich bar."
+  },
+  {
+    "name": "Vim and Tonic",
+    "address": "143 King St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon-Fri 7:00am-4:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, Organic, Raw, Western, Juice bar, Take-out, Non-veg",
+    "description": "Serves meat, vegan options available. Little cafe inside a health food shop with raw-organic carrot cake, vegan wraps, salads, muffins (vary), smoothies, and non dairy milk for drinks (oat, coconut, soy, almond, rice). Has raw cocoa bliss balls."
+  },
+  {
+    "name": "VN Fresh",
+    "address": "3-7 Murray Rose Ave, Sydney, New South Wales",
+    "phone": "+61-287460141",
+    "open_hours": "Now Open:                     Mon-Sun 11:00am-9:00pm",
+    "cuisine": "Cuisine: Juice bar, Beer/Wine, Vietnamese, Non-veg",
+    "description": "Serves meat, vegan options available. Vietnamese food menu, limited but has a few choices."
+  },
+  {
+    "name": "Yatai Ozeki",
+    "address": "Macquarie Centre, Food Court, Level 2 Upper (at Corner Of Herring Road And Waterloo Road), Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon-Wed 10:00am-5:30pm, Thu 10:00am-9:00pm, Fri-Sun 10:00am-5:30pm",
+    "cuisine": "Cuisine: Japanese, Take-out, Asian, Non-veg",
+    "description": "Serves meat, vegan options available. Japanese restaurant located in food court of Macquarie Centre serving a large selection of rice/udon bowls. The veg options all include 'soy-bean mince'. They also have a range of salads with one veg option included. Curry is not vegan."
+  },
+  {
+    "name": "Zaaffran",
+    "address": "10 Darling Dr, Sydney, New South Wales",
+    "phone": "+61-292118900",
+    "open_hours": "Mon-Sun 12:00pm-2:30pm, Wed-Thu 6:00pm-9:30pm, Fri-Sat 5:30pm-10:00pm, Sun 5:30pm-9:30pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Indian, Asian, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Offers a variety of Indian dishes with both a vegetarian and vegan section for entrees and mains. Offers vegan sides and also and a majority of dishes are gluten free."
+  },
+  {
+    "name": "Zeus Street Greek - Australia Square",
+    "address": "Shop 404/264 George St, Sydney, New South Wales",
+    "phone": "+61-283155680",
+    "open_hours": "Now Open:                     Mon-Thu 5:00pm-9:00pm, Fri-Sun 12:00pm-9:00pm",
+    "cuisine": "Cuisine: Lacto, Mediterranean, Take-out, Greek, Non-veg",
+    "description": "Serves meat, vegan options available. Restaurant chain operating across Australia offering Greek street food since 2014. A separate vegan menu lists the following: sharing plate, a spartan box, baked falafel, pita, smoked eggplant dip, salads, and dessert loukoumi."
+  },
+  {
+    "name": "Zeus Street Greek - Pitt St",
+    "address": "5011/188 Pitt St, Sydney, New South Wales",
+    "phone": "+61-283155641",
+    "open_hours": "Mon-Wed 11:00am-5:00pm, Thu 11:00am-9:00pm, Fri-Sun 11:00am-5:00pm",
+    "cuisine": "Cuisine: Lacto, Mediterranean, Take-out, Greek, Non-veg",
+    "description": "Serves meat, vegan options available. Restaurant chain operating across Australia offering Greek street food since 2014. A separate vegan menu lists the following: sharing plate, a spartan box, baked falafel, pita, smoked eggplant dip, salads, and dessert loukoumi."
+  },
+  {
+    "name": "Zeus Street Greek - Westfield",
+    "address": "Westfield Sydney, Shop 5011, Level 5/188 Pitt St, Sydney, New South Wales",
+    "phone": "+61-283155641",
+    "open_hours": "Mon-Wed 11:00am-5:00pm, Thu 11:00am-9:00pm, Fri-Sun 11:00am-5:00pm",
+    "cuisine": "Cuisine: Lacto, Mediterranean, Take-out, Greek, Non-veg",
+    "description": "Serves meat, vegan options available. Restaurant chain operating across Australia offering Greek street food since 2014. A separate vegan menu lists the following: sharing plate, a spartan box, baked falafel, pita, smoked eggplant dip, salads, and dessert loukoumi."
+  },
+  {
+    "name": " Gigi's Eco Collection",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Now Open:                     Mon-Sun 9:00am-9:00pm",
+    "cuisine": null,
+    "description": "An Australian brand for biodegradable glitter made up of only five ingredients that are vegan, non-toxic and cruelty free. Visit webpage for the online shop."
+  },
+  {
+    "name": "Candy Queens",
+    "address": "Alexandria area, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "All-vegan online candy shop selling mega pick'n'mix bags, gummy lollies, chocolates and sweets."
+  },
+  {
+    "name": "EZ VE - Market Stall",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Vegan fast food stall appearing at markets and events. Menu offers cheezeburgers, hot chips, chixburgers, popcorn cauliflower, and nuggetz."
+  },
+  {
+    "name": "Garden of Vegan  ",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Vegan meal delivery service with branches around Australia. Offers organic, oil free, and gluten free savory meals as well as sweets. See website for menu."
+  },
+  {
+    "name": "Green Wise Monkeys",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Delivery of plant-based platters & organic fruit to workplaces and homes, previously catering and pop-up. Mission to accelerate the world's transition to sustainable food."
+  },
+  {
+    "name": "Hammerhead Threads",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Sells online and at area markets - check webpage. Specializes in cruelty-free fashion: shoes, clothing, and accessories. Contact: info@hammerheadthreads.com"
+  },
+  {
+    "name": "Jessy & Co",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "+61-416489371",
+    "open_hours": "Sat 8:00am-2:00pm",
+    "cuisine": null,
+    "description": "Vegan caterer and market vendor - check facebook for market schedule. Offers pancakes and coffee."
+  },
+  {
+    "name": "Just Add Vegan",
+    "address": "13 / 25 Hoskins Ave (at Chapel Rd), Sydney, New South Wales",
+    "phone": "+61-287734584",
+    "open_hours": "Now Open:                     Mon-Sun 12:00am-12:00am",
+    "cuisine": null,
+    "description": "Vegan delivery service offering ready to eat meals, meal kits, vegan meat & cheese alternatives, pantry goods and sweet treats."
+  },
+  {
+    "name": "Lasagne for Breakfast",
+    "address": "Greater Sydney, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Delivery of traditional Italian dishes made vegan, including pasta, platters, sauces, and more. Uses eco-friendly, sustainable packaging. Contact via Facebook."
+  },
+  {
+    "name": "Love Sweet Vegan",
+    "address": "Ramsgate Foodies, Sydney, New South Wales",
+    "phone": "+61-413083884",
+    "open_hours": "Wed 8:00am-1:00pm, Sat 8:00am-2:00pm",
+    "cuisine": null,
+    "description": "Vegan stall offering all gluten free and vegan baked goods such as mini cakes, pastries, and more. The stall is a regular at Turra Produce Market (Wednesday) and Ramsgate Foodie Market (Saturday). Check Instagram for location updates. Also delivers to Buddha Bowl Cafe."
+  },
+  {
+    "name": "M Dreams",
+    "address": "188 Pitt St, Westfield Sydney Central Plaza, Sydney, New South Wales",
+    "phone": "+61-292323113",
+    "open_hours": "Mon-Wed 9:00am-6:30pm, Thu 9:00am-9:00pm, Fri-Sat 9:00am-6:30pm, Sun 10:00am-6:00pm",
+    "cuisine": null,
+    "description": "Shoe store selling Brazilian-made high end PVC (jelly) Melissa brand shoes which are vegan. Claim to be durable, environmentally friendly, recyclable, and responsibly produced. Some shoes are collaborations with known designers."
+  },
+  {
+    "name": "Mylk & Bun",
+    "address": "Entertainment Quarter, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Stall offering vegan cinnamon buns at the Sydney Vegan Markets. 50% of profits go towards a community based refuge for women in crisis."
+  },
+  {
+    "name": "Pana Chocolate",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "+61-1300717488",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "A 100% raw/vegan/organic chocolatier with an online store offering made-in-house treats. Free from dairy, soy, gluten and refined sugar. No longer has a storefront as of 2020 but products can be ordered online as well as in local shops/supermarkets."
+  },
+  {
+    "name": "Pressed and Squeezed",
+    "address": "Sydney Area, Sydney, New South Wales",
+    "phone": "+61-490123888",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Market vendor specialising in waffles and lemonade. Regularly trading from the Sydney Vegan Market. Check Facebook for updates."
+  },
+  {
+    "name": "Revel Foods",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "+61-450304486",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Mobile vegan food vendor appearing at local markets - check facebook for locations and updates. Offers dishes like rigatoni bolognese and cajun fusilli."
+  },
+  {
+    "name": "Seeds to Feeds",
+    "address": "Syndey area, Sydney, New South Wales",
+    "phone": "+61-412930898",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Delivery of plant-based frozen meals also offering catering for NSW, QLD, VIC & ACT and event catering for Sydney."
+  },
+  {
+    "name": "Soulara",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Vegan meal service delivering nationwide. The majority of meal are gluten-free and nutrient dense. Dishes include gnocchi, curry, aloo gobi, mushroom bourguignon, kung pao, and pesto pasta."
+  },
+  {
+    "name": "SoulServe",
+    "address": "Bondi Beach Market, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Sun 10:00am-4:00pm",
+    "cuisine": null,
+    "description": "An all-vegan home-made ice cream market stall. Example of flavors: Lemon & macadamia, peanut butter, hazelnut roast, dark choc&sea salt, strawberry coconut, and matcha. As of March 2021, they can be found in Bondi Beach Market every Sunday. They also cater to private events. Check their Instagram account to keep updated."
+  },
+  {
+    "name": "Southern Soul",
+    "address": "114 Terry St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Vegan soul food vendor appearing at various local markets, events, and festivals - check its webpage for schedule. Menu includes pulled jackfruit bbq, mac n cheese, deep fried cauliflower, cornbread, dumplings and jambalaya. Delivery and pick-up available."
+  },
+  {
+    "name": "The Plant Kitchen Co",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "+61-478739349",
+    "open_hours": "Now Open:                     Mon-Sun 9:00am-9:00pm",
+    "cuisine": null,
+    "description": "Plant-based and plastic-free packaging home delivery service. Delivery typically is a couple of days after you order. Prepares hand-made, home-style dinners in their kitchen and are ready-to-heat when they get to you. Delivery is free!"
+  },
+  {
+    "name": "Small Bar",
+    "address": "48 Erskine St, Sydney, New South Wales",
+    "phone": "+61-292790782",
+    "open_hours": "Tue 12:00pm-10:30pm, Wed 12:00pm-11:00pm, Thu 12:00pm-11:30pm, Fri 12:00pm-12:00am, Sat 5:00pm-11:00pm",
+    "cuisine": "Cuisine: Western, Fast food, Take-out, Mexican, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Vegans could have cauliflower wings, black bean tacos, fries, waffle fries, guacamole with corn chips plus monthly specials. NOTE: please confirm whether separate equipment/utensils are used to prepare vegan dishes."
+  },
+  {
+    "name": "Soma",
+    "address": "646 Harris St, Shop 2, Ultimo, Sydney, New South Wales",
+    "phone": "+61-292804204",
+    "open_hours": "Mon-Fri 7:00am-4:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, International, Western, Take-out, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Coffee roaster operating a cafe located on the fringe of the Sydney CBD. Offers a small food menu and a separate vegetarian/vegan menu. Breakfast for vegans include granola with almond milk and coconut yogurt, chia pudding, green smoothies, sourdough toast with sides, and a shakshouka (also for lunch). Almond milk and coconut yogurt made-in-house. Previously named Mecca Ultimo."
+  },
+  {
+    "name": "Soul Origin",
+    "address": "2-10 Darling Dr, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Now Open:                     Mon-Sun 7:00am-8:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Soul Origin - Central Plaza",
+    "address": "Shop 25A Lower Ground, Central Plaza, 450 George St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Now Open:                     Mon-Wed 7:00am-7:00pm, Thu 7:00am-9:00pm, Fri-Sat 7:00am-7:00pm, Sun 7:00am-6:00pm                  Closing soon.",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Soul Origin - Chifley Square",
+    "address": "Level One, 2 Chifley Square, Sydney, New South Wales",
+    "phone": "+61-280188320",
+    "open_hours": "Mon-Fri 7:00am-5:30pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Soul Origin - George St",
+    "address": "Shop LG A03, A04/500 George St, Sydney, New South Wales",
+    "phone": "+61-292690401",
+    "open_hours": "Now Open:                     Mon-Sun 5:30am-8:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Soul Origin - Hunter St",
+    "address": "Shop H1/7\u201313 Hunter St, Sydney, New South Wales",
+    "phone": "+61-280688882",
+    "open_hours": "Mon-Fri 7:00am-5:30pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Soul Origin - Met Centre",
+    "address": "T017, Met Centre, 60 Margaret St, Sydney, New South Wales",
+    "phone": "+61-292417246",
+    "open_hours": "Mon-Fri 7:00am-5:30pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Soul Origin - MLC Centre",
+    "address": "Shop 6K4, 19-29 Martin Place, Sydney, New South Wales",
+    "phone": "+61-292328232",
+    "open_hours": "Mon-Fri 7:00am-5:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Soul Origin - Town Hall Station",
+    "address": "580 George St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon-Fri 6:00am-6:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Soul Origin - Wintergarden",
+    "address": "Level 2, 1 O\u2019Connell St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon-Fri 5:30am-4:30pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Soul Origin - World Square",
+    "address": "Shop 10.01, World Square, 680 George St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon-Fri 6:00am-5:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Mediterranean, Fast food, Salad bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Deli style restaurant chain operating across Australia. Offers a variety of ready-to-eat foods including sandwiches and prepared salads. The following salads are vegan and marked as plant-based: falafel, brown rice, green bean avocado, green lentil, mexi bean, and pumpkin couscous. Vegan dressings include zesty balsamic and zesty lemon olive oil. Check with staff to see what else is or can be vegan. Serves coffee and smoothies."
+  },
+  {
+    "name": "Sumo Salad",
+    "address": "Shop RG15, Ground Floor, The Galeries, 500 George St, Sydney, New South Wales",
+    "phone": "+61-292672429",
+    "open_hours": "Mon-Fri 6:30am-4:30pm, Sat-Sun 8:00am-3:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, American, International, Mediterranean, Fast food, Salad bar, Juice bar, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Offers many vegan choices including around 5 fresh different vegan salads daily. Option to build your own salad. Includes pumpkin, couscous, green veggies, broccoli, beans, quinoa and more. Also has hummus and falafel lunch. Also has cold pressed juices and coffees with almond milk. Has multiple branches, this one is on the ground floor of the Galleries."
+  },
+  {
+    "name": "Sushi Hub",
+    "address": "Shop 10.24 World Square Shopping Centre, 644 George St, Sydney, New South Wales",
+    "phone": "+61-280682800",
+    "open_hours": "Now Open:                     Mon-Fri 8:00am-7:00pm, Sat-Sun 8:00am-5:00pm                  Closing soon.",
+    "cuisine": "Cuisine: Ovo, Japanese, Non-veg",
+    "description": "Serves meat, vegan options available. Sushi eatery located in the World Square Shopping Centre. Vegan options include tofu teriyaki, avocado roll, vegetable tempura nigiri, plain inari, and vegetable tempura inari."
+  },
+  {
+    "name": "SYD - SumoSalad - T1",
+    "address": "Sydney Airport, Sydney, New South Wales",
+    "phone": "+61-293527515",
+    "open_hours": "Now Open:                     Mon-Sun 6:00am-9:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Organic, Raw, Fast food, Salad bar, Juice bar, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Quick service salad franchise. Offers pre-designed menu items or build your own salad. Vegans could also get raisin toast, fruit salad, and cold pressed juices. Labels which dishes are vegan and cater for a range of dietary requirements. Located near Gate 24 after security."
+  },
+  {
+    "name": "Thai Rock",
+    "address": "28 Bayswater Rd, Potts Point, Sydney, New South Wales",
+    "phone": "+61-288657808",
+    "open_hours": "Now Open:                     Mon-Fri 11:00am-3:00pm, 5:00pm-10:00pm, Sat-Sun 11:00am-10:00pm",
+    "cuisine": "Cuisine: Ovo, Thai, Beer/Wine, Take-out, Asian, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Has vegan menu list offering dishes like salt & pepper tofu, rice paper rolls, tom yum, papaya salad, pad thai, and a few kinds of curries plus dairy free ice-cream and mango sticky rice for dessert. Uses alternatives like vegan fish sauce and vegan laksa paste. Tofu is a protein option (no mock meats). Allows dogs in the patio."
+  },
+  {
+    "name": "The Black Groodle",
+    "address": "55 Mountain St, Ultimo, Sydney, New South Wales",
+    "phone": "+61-292819161",
+    "open_hours": "Mon-Fri 7:00am-4:30pm",
+    "cuisine": "Cuisine: Mediterranean, Salad bar, Take-out, European, Middle Eastern, Non-veg",
+    "description": "Serves meat, vegan options available. Small cafe setting with items such as middle eastern style salads, baked veggies and wraps. The food is prepared in the center of the cafe with the salads and veggie options in front of you so you could pick and choose what you'd like."
+  },
+  {
+    "name": "The Farm Wholefoods",
+    "address": "Shop 3, 81 Macleay St, Potts Point, Sydney, New South Wales",
+    "phone": "+61-1300464869",
+    "open_hours": "Now Open:                     Mon-Sat 7:00am-7:00pm, Sun 8:00am-7:00pm                  Closing soon.",
+    "cuisine": "Cuisine: Lacto, Western, Juice bar, Breakfast, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Offers breakfast, lunch, smoothies, acai bowls, and sweet treats. Marks if a dish is vegetarian or vegan."
+  },
+  {
+    "name": "The Gantry",
+    "address": "11 Hickson Rd, Walsh Bay, Sydney, New South Wales",
+    "phone": "+61-282989910",
+    "open_hours": "Now Open:                     Mon-Sun 12:00pm-2:30pm, 6:00pm-10:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Beer/Wine, Gluten-free, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Offers a vegetarian a-la-carte menu with two vegan dishes plus a vegan degustation menu which changes periodically."
+  },
+  {
+    "name": "The Gardens",
+    "address": "644 George St, Sydney, New South Wales",
+    "phone": "+61-425265520",
+    "open_hours": "Now Open:                     Mon-Fri 7:00am-10:00pm, Sat-Sun 8:00am-10:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, International, Organic, Raw, Salad bar, Honey, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Little cafe that serves breakfast and lunch. Porridge and fruit salad are both vegan, as are the almond pancakes if ordered without honey. Has a variety of salad options that could be made vegan as well. Note that the granola is not vegan as it is pre-mixed with Greek yoghurt."
+  },
+  {
+    "name": "The Malaya",
+    "address": "39 Lime St, Sydney, New South Wales",
+    "phone": "+61-292791170",
+    "open_hours": "Tue-Sun 12:00pm-2:30pm, Tue-Fri 6:00pm-9:00pm, Sat 5:30pm-9:30pm, Sun 6:00pm-9:00pm",
+    "cuisine": "Cuisine: Ovo, Asian, Fusion, Non-veg",
+    "description": "Serves meat, vegan options available. Offers South-East Asian cuisine. Has an a la carte menu with many vegan dishes and a vegetarian banquet which can easily be made vegan. Almost all the vegetarian options are vegan."
+  },
+  {
+    "name": "The Tea Room",
+    "address": "Level 3 North End, Queen Victoria Building, 455 George St, Sydney, New South Wales",
+    "phone": "+61-292837279",
+    "open_hours": "Mon-Sun 10:00am-5:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, British, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Specialises in high teas. Can cater for vegan high teas and gluten free vegan high teas, with 24 hours notice."
+  },
+  {
+    "name": "Tung Tong Roong Thai",
+    "address": "1A Hillcrest Rd, Pennant Hills, Sydney, New South Wales",
+    "phone": "+61-299807585",
+    "open_hours": "Now Open:                     Mon-Fri 11:30am-2:30pm, Mon-Sun 5:30pm-10:00pm",
+    "cuisine": "Cuisine: Ovo, Thai, Delivery, Take-out, Asian, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Staff are knowledgeable of veganism and can make most dishes vegan on request, except for some curries and some pre-prepared entrees. Traditional Thai stir fries, rice and noodle dishes can be made vegan and served with mixed vegetables and tofu. All dishes can also be requested gluten free and most dishes can be requested without onion or garlic. Reservations for dinner are recommended."
+  },
+  {
+    "name": "Uliveto Cafe",
+    "address": "33 Bayswater Rd, Sydney, New South Wales",
+    "phone": "+61-293577331",
+    "open_hours": "Mon-Sat 7:00am-5:00pm, Sun 8:00am-5:00pm",
+    "cuisine": "Cuisine: Lacto, Mediterranean, Breakfast, Greek, Non-veg",
+    "description": "Serves meat, vegan options available. Mediterranean cafe offering bowls, salads, baked goods and breakfast dishes. Ask for the vegan options."
+  },
+  {
+    "name": "Untied",
+    "address": "Level 4, 400 Barangaroo Ave, Sydney, New South Wales",
+    "phone": "+61-283222099",
+    "open_hours": "Now Open:                     Mon-Sat 12:00pm-12:00am, Sun 11:00am-12:00am",
+    "cuisine": "Cuisine: Vegan-friendly, International, Beer/Wine, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Rooftop bar in Barangaroo that has a number of marked vegan dishes including a taco, burger, sides and a dessert. Gluten free options also marked."
+  },
+  {
+    "name": "Vapiano",
+    "address": "Corner of King St and York St, Sydney, New South Wales",
+    "phone": "+61-292990079",
+    "open_hours": "Now Open:                     Mon-Thu 11:00am-11:00pm, Fri-Sat 11:00am-12:00am, Sun 11:00am-11:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Pizza, Italian, Beer/Wine, Take-out, Non-veg",
+    "description": "Serves meat, vegan options available. German-based restaurant chain & franchise operating branches globally, some with open kitchens where you see the cooks making the orders. Offers casual-style Italian food menu of pasta, pizza, salad, risotto, starter, and dessert selections. Vegan options are labeled with examples such as bruschetta, tomato soup, spaghetti or penne in tomato sauce, and ratatouille. Have vegan Parmesan and mozzarella options. Pizza dough confirmed vegan by Vapiano, Nov 2019."
+  },
+  {
+    "name": "Vermicelli",
+    "address": "191 Clarence St, Sydney, New South Wales",
+    "phone": "+61-292790030",
+    "open_hours": "Mon-Fri 9:00am-3:00pm",
+    "cuisine": "Cuisine: Fast food, Take-out, Asian, Vietnamese, Non-veg",
+    "description": "Serves meat, vegan options available. Offers healthy Vietnamese street food, with vegan items on the menu. Includes rice paper rolls, pho and vermicelli bowls, using either tofu or vegetarian chicken (gluten), which is promoted on a sandwich-board outside. Staff understand vegan sensitivities and don't use fish/shrimp sauces in the vegan food."
+  },
+  {
+    "name": "The Vegan Cookie",
+    "address": "Kings Cross Organic Food Market, Potts Point, Sydney, New South Wales",
+    "phone": "+61-473581792",
+    "open_hours": "Thu 8:00am-2:00pm, Sat 8:00am-2:00pm, Sun 7:00am-1:00pm",
+    "cuisine": null,
+    "description": "Vegan cookie stall operating from different several markets throughout the week. Check social media for locations and updates."
+  },
+  {
+    "name": "Vegan Street Eats",
+    "address": "Sydney Area, Sydney, New South Wales",
+    "phone": "+61-424209936",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Vegan delivery/catering specializing in meals such as mousakka, cannelloni, lasagne, spaghetti bolognese, and other pasta dishes, along with a selection of desserts. Has a regular market stand at the Sydney Vegan Market and offers home delivery to Sydney and metropolitan suburbs."
+  },
+  {
+    "name": "Veganueasy",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "+61-433870227",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Vegan meal kit company that delivers plant based recipes and ingredients to homes in the Sydney area to make it easier to learn new vegan recipes. You can order a one off box with 3 meals, or a weekly subscription."
+  },
+  {
+    "name": "Yogitown",
+    "address": "11/140 Lennox St (at  Lennox St), Sydney, New South Wales",
+    "phone": "+61-413298932",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Global clothing label inspired by yoga philosophy. Designs are hand-drawn and screen-printed in the Inner West of Sydney. All printing uses water-based inks and are 100% vegan. Garments are ethically manufactured and certified by the Fair Wear Foundation using only organic fibres."
+  },
+  {
+    "name": "Zesti Food",
+    "address": "Market Vendor, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Specialises in vegan gyros / souvlaki. Regularly visits the Sydney vegan market."
+  },
+  {
+    "name": "Absurd Vird",
+    "address": "Unit 19a 30-32 Beaconsfiled St, Alexandria, NSW 2015, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Offers vegan chick'n burgers and fried vegan chick'n."
+  },
+  {
+    "name": "All Things Acai",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Mobile vegan food vendor and caterer appearing at local markets. Menu includes acai bowls, smoothies and raw treats. Check its webpage for location updates & info."
+  },
+  {
+    "name": "Black Star Pastry",
+    "address": "Level 2/500 George St, Sydney, New South Wales",
+    "phone": "+61-295578656",
+    "open_hours": "Closed temporarily",
+    "cuisine": null,
+    "description": "Serves meat, vegan options available. Bakery cafe inside the Kinokuniya book store in the Galleries. Offers cakes, pastries, bread, and savory small bites. Has vegan labeled, with sample items such avocado on toast, mushroom potato rolls, salad, vegan chocolate cake and cupcakes, hot chocolate. Operates other branches."
+  },
+  {
+    "name": "CBD Cakes",
+    "address": "MLC Centre, 2/108 King St, Sydney, New South Wales",
+    "phone": "+61-292476935",
+    "open_hours": "Mon-Fri 7:00am-5:00pm",
+    "cuisine": null,
+    "description": "Cake shop offering a vegan chocolate cake in either medium or large size. Offers delivery in the Sydney CBD and inner city suburbs."
+  },
+  {
+    "name": "CBD Natural Health",
+    "address": "Level 1/343 George St, Sydney, New South Wales",
+    "phone": "+61-292991311",
+    "open_hours": "Mon-Sat 9:00am-5:30pm",
+    "cuisine": null,
+    "description": "Naturopathic medicine practice specialising in health and natural fertility."
+  },
+  {
+    "name": "Chatime",
+    "address": "World Square Shopping Centre, 680 George St, Sydney, New South Wales",
+    "phone": "+61-292679880",
+    "open_hours": "Now Open:                     Mon-Wed 8:00am-10:00pm, Thu-Fri 8:00am-10:30pm, Sat-Sun 9:00am-10:30pm",
+    "cuisine": null,
+    "description": "Bubble tea shop. Teas contain no gelatin or animal products apart from milk teas and the pudding toppings. Everything else is vegan."
+  },
+  {
+    "name": "Double Bay Farmers Market",
+    "address": "Guilfoyle Park, Bay Street, Double Bay, Sydney, New South Wales",
+    "phone": "+61-299992226",
+    "open_hours": "Thu 8:30am-2:00pm",
+    "cuisine": null,
+    "description": "Open air farmers market."
+  },
+  {
+    "name": "Flying Pig Coffee",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "+61-1300486684",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Offers a coffee blend that the owner has developed specifically to work with plant milks."
+  },
+  {
+    "name": "Gelatissimo",
+    "address": "Shop 2, 1-25 Harbour St, Darling Quarter, Sydney, New South Wales",
+    "phone": "+61-292645566",
+    "open_hours": "Now Open:                     Mon-Thu 10:30am-10:30pm, Fri-Sat 10:30am-12:00am, Sun 10:30am-10:30pm",
+    "cuisine": null,
+    "description": "Gelateria chain with vegan flavours that include: blood orange, green apple, lemon, mango, passionfruit, raspberry, strawberry, coconut, and 96% sugar free chocolate. Gelato and sorbet are made fresh in store, without artificial colours, or flavours. Waffle cones are naturally rolled, vegan friendly, and made with coconut oil (not palm oil). This company was founded in 2002 and operates outlets across Australia."
+  },
+  {
+    "name": "Gelatissimo - Circular Quay",
+    "address": "Shop C2, Circular Quay Esplanade, Alfred St, Sydney, New South Wales",
+    "phone": "+61-292416646",
+    "open_hours": "Now Open:                     Mon-Sun 10:00am-12:00am",
+    "cuisine": null,
+    "description": "Gelateria chain with vegan flavours that include: blood orange, green apple, lemon, mango, passionfruit, raspberry, strawberry, coconut, and 96% sugar free chocolate. Gelato and sorbet are made fresh in store, without artificial colours, or flavours. Waffle cones are naturally rolled, vegan friendly, and made with coconut oil (not palm oil). This company was founded in 2002 and operates outlets across Australia."
+  },
+  {
+    "name": "Gelatissimo - The Rocks",
+    "address": "73 George St, The Rocks, Sydney, New South Wales",
+    "phone": "+61-292513744",
+    "open_hours": "Now Open:                     Mon-Thu 10:30am-9:30pm, Fri-Sat 10:30am-10:30pm, Sun 10:30am-9:30pm",
+    "cuisine": null,
+    "description": "Gelateria chain with vegan flavours that include: blood orange, green apple, lemon, mango, passionfruit, raspberry, strawberry, coconut, and 96% sugar free chocolate. Gelato and sorbet are made fresh in store, without artificial colours, or flavours. Waffle cones are naturally rolled, vegan friendly, and made with coconut oil (not palm oil). This company was founded in 2002 and operates outlets across Australia."
+  },
+  {
+    "name": "Gelato Messina",
+    "address": "Shop G-10, Gateway Plaza, 1 Macquarie Place, Circular Quay, Sydney, New South Wales",
+    "phone": "+61-292524480",
+    "open_hours": "Now Open:                     Mon-Thu 12:00pm-10:30pm, Fri 12:00pm-11:30pm, Sat 11:30am-11:30pm, Sun 11:30am-10:00pm",
+    "cuisine": null,
+    "description": "Gelato chain founded 2002 with its first outlet in Darlinghurst. The sorbet flavours and the cones are vegan and palm oil free."
+  },
+  {
+    "name": "Gourmand Providore",
+    "address": "Kerruish Ave, Homebush West (at Sydney Markets), Sydney, New South Wales",
+    "phone": "+61-297642355",
+    "open_hours": "Mon-Sat 7:00am-12:00pm",
+    "cuisine": null,
+    "description": "Fruit and vegetable produce store, sells wholesale and to the public. Staff are trained to assist with menu and planning needs, ensuring that customers have continual access to seasonal produce, as it becomes available. All packaging material, including cartons, bubble wrap and styro-foam boxes, is recycled to minimise waste."
+  },
+  {
+    "name": "Kings Cross Farmers Market",
+    "address": "Fitzroy Gardens, Macleay Street, Kings Cross, Sydney, New South Wales",
+    "phone": "+61-299992226",
+    "open_hours": "Sat 9:00am-2:00pm, Sun 9:30am-2:30pm",
+    "cuisine": null,
+    "description": "Open air farmers market."
+  },
+  {
+    "name": "Max Brenner",
+    "address": "Level 6, Westfield SC, Cnr Pitt St Mall & Market St, Sydney, New South Wales",
+    "phone": "+61-292380022",
+    "open_hours": "Now Open:                     Mon-Thu 9:00am-10:00pm, Fri-Sat 9:00am-11:00pm, Sun 10:00am-10:00pm",
+    "cuisine": null,
+    "description": "Chocolate company operating dessert restaurants and chocolate shops internationally, with most of its outlets being in Australia. The restaurants offer labelled vegan menu items which are marked by a green leaf. These include a dark chocolate pizza, dip, lick (liquid chocolate), hot chocolate, frappe, and granita. Tea and coffee drinks available."
+  },
+  {
+    "name": "Metropole QVB",
+    "address": "Kiosk 56, Ground Floor, 455 George St, Sydney, New South Wales",
+    "phone": "+61-292671122",
+    "open_hours": "Mon-Fri 7:00am-5:00pm, Sat 7:00am-5:30pm, Sun 7:30am-5:00pm",
+    "cuisine": null,
+    "description": "Serves meat, vegan options available. Cafe offering  a selection of vegan salads & pastries like pies, croissants, breads and more. Subject to availability."
+  },
+  {
+    "name": "Muffin Break",
+    "address": "Central Plaza, 450 George St, Sydney, New South Wales",
+    "phone": "+61-292239010",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Serves meat, vegan options available Bakery cafe founded in Queensland AU in 1989 and now operates franchise outlets in a few countries. Quick service style. Each day will have at least 1 vegan muffin option, with varying flavors such as apple cinnamon, banana pecan, or blueberry. Also check for vegan 'meat' pie or flapjacks, and ask if can make you a vegan sandwich. Plant milk is available for drinks. Note that the chocolate powder contains milk."
+  },
+  {
+    "name": "Mum's Indian Kitchen",
+    "address": "Sydney Area, Sydney, New South Wales",
+    "phone": "+61-492801378",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Meal delivery service offering home-style vegan Indian meals in Sydney and surrounding suburbs (Note: Uses ghee in some options, please confirm). Soybean yoghurt is also made in house. Meals are delivered on Mondays and Fridays between 6:30pm - 9:30pm."
+  },
+  {
+    "name": "Organic Foods and Farmers' Market",
+    "address": "5 Frenchs Forest Rd, Frenchs Forest, Sydney, New South Wales",
+    "phone": "+61-299992226",
+    "open_hours": "Sun 7:00am-1:00pm",
+    "cuisine": null,
+    "description": "Open air farmers' market with locations throughout Sydney and Sydney suburbs on different days of the week. See website for more locations and dates."
+  },
+  {
+    "name": "Paella Show Catering",
+    "address": "10 Carden Ave, Sydney, New South Wales",
+    "phone": "+61-410961197",
+    "open_hours": "Now Open:                     Mon-Sun 9:00am-9:00pm",
+    "cuisine": null,
+    "description": "Spanish mobile catering in Sydney and surroundings. Specializes in paella and tapas, including vegan paella, tapas and salads. Customized vegan menu for weddings or any celebration."
+  },
+  {
+    "name": "St Dreux",
+    "address": "151 Clarence St, Sydney, New South Wales",
+    "phone": "+61-409439906",
+    "open_hours": "Mon-Thu 7:00am-4:00pm, Fri 7:00am-3:30pm",
+    "cuisine": null,
+    "description": "Espresso bar offering a range of different coffee blends and single origins sourced from around the world. Offers alternative milks such as oat, soy, almond and macadamia. Has a range of vegan pastries such as vegan donuts."
+  },
+  {
+    "name": "The Source Bulk Foods",
+    "address": "183 Glebe Point Rd, Sydney, New South Wales",
+    "phone": "+61-280650598",
+    "open_hours": "Now Open:                     Mon 9:00am-9:00pm, Tue-Fri 9:00am-6:30pm, Sat 9:00am-5:00pm, Sun 10:00am-4:00pm",
+    "cuisine": null,
+    "description": "Bulk food store chain providing a wide range of wholefoods, from nuts and dried fruits to beans to snacks and essentials like flour, oats, nuts, seeds, tahini, spices, and soaps. Has nut butter machine. Bring your own containers. Here since 2014."
+  },
+  {
+    "name": "House Bar & Bistrot ",
+    "address": "Keller St, Potts Point, Sydney, New South Wales",
+    "phone": "+61-450633892",
+    "open_hours": "Tue-Sat 11:30am-3:00pm, 6:00pm-10:00pm, Sun 10:00am-4:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Italian, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Offers a few vegan dishes as well as vegetarian ones which can be veganised on request."
+  },
+  {
+    "name": "INDU Dining",
+    "address": "350 Angel Pl, Sydney, New South Wales",
+    "phone": "+61-292230158",
+    "open_hours": "Tue-Fri 12:00pm-11:30pm, Sat 5:00pm-11:30pm",
+    "cuisine": "Cuisine: Indian, International, Asian, Sri Lankan , Non-veg",
+    "description": "Serves meat, vegan options available. Has vegan dishes on the menu and offers a completely vegan night every fortnight with a set menu that changes with seasonal foods."
+  },
+  {
+    "name": "Jimmy's Falafel",
+    "address": "312 George St, Sydney, New South Wales",
+    "phone": "+61-291147381",
+    "open_hours": "Now Open:                     Mon-Tue 11:30am-10:30pm, Wed 11:30am-12:00am, Thu-Sat 11:30am-2:00am, Sun 11:30am-10:00pm",
+    "cuisine": "Cuisine: Lacto, Mediterranean, Beer/Wine, Take-out, Middle Eastern, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Falafel place serving falafel and alcoholic beverages."
+  },
+  {
+    "name": "JOZO",
+    "address": "495 Oxford St, Paddington, Sydney, New South Wales",
+    "phone": "+61-291318454",
+    "open_hours": "Mon-Fri 6:00am-3:00pm, Sat-Sun 6:00am-5:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, International, Organic, Salad bar, Juice bar, Beer/Wine, Take-out, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Breakfast and lunch served all day with vegan dishes marked on the menu. Includes a vegan brekky, superfood salad, vegan bowl and a portobello burger with vegan ricotta cheese. Also offers a chocolate mousse and an apple crumble for dessert. MILKLAB almond milk available for hot drinks etc. Has gluten-free options. Dog friendly."
+  },
+  {
+    "name": "Lankan Filling Station",
+    "address": "58 Riley St, Sydney, New South Wales",
+    "phone": "+61-285429936",
+    "open_hours": "Tue-Sat 12:00pm-10:00pm, Sun 10:00am-4:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Take-out, Asian, Sri Lankan , Non-veg",
+    "description": "Serves meat, vegan options available. Sri Lankan food such as a variety of hoppers with vegan vegetable curries, dhals and veggie offerings."
+  },
+  {
+    "name": "Lizzie Bay",
+    "address": "3/76 Elizabeth Bay Rd, Sydney, New South Wales",
+    "phone": "+61-293577630",
+    "open_hours": "Now Open:                     Mon 5:00pm-9:00pm, Tue-Fri 11:00am-9:00pm, Sun 11:00am-9:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, International, Organic, Mediterranean, Salad bar, Delivery, Take-out, Asian, Bakery, Catering, Gluten-free, Honey, Australian, Greek, Non-veg",
+    "description": "Serves meat, vegan options available. Family owned and operated restaurant with a changing menu that always includes vegan dishes. Examples could be stuffed capsicums, dolmades, lentil soup, vege bake, spanakorizo (spinach and rice), fasolada (bean soup) and fasolakia (green bean casserole.) Non-dairy milk is available for hot drinks. Catering services available."
+  },
+  {
+    "name": "Mad Mex",
+    "address": "Shop 1-20/450 George St, Sydney, New South Wales",
+    "phone": "+61-292221700",
+    "open_hours": "Now Open:                     Mon-Wed 10:00am-7:00pm, Thu 10:00am-9:00pm, Fri 10:00am-7:00pm, Sat 10:30am-6:30pm, Sun 10:30am-6:00pm                  Closing soon.",
+    "cuisine": "Cuisine: Lacto, Ovo, Beer/Wine, Delivery, Take-out, Mexican, Non-veg",
+    "description": "Serves meat, vegan options available. Mexican restaurant chain with outlets in Australia and New Zealand. Offers Baja-style Mexican dishes from burrito, quesadilla, and grande melt to ensalada, tacos, and nachos. Meals are made to-order and customisable with vegan options marked. Has vegan cheese and tofu rancheros filling. Black beans and guacamole vegan."
+  },
+  {
+    "name": "Mary's",
+    "address": "7 Macquarie Pl, Circular Quay, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Now Open:                     Mon-Wed 12:00pm-12:00am, Thu-Sat 12:00pm-1:00am, Sun 12:00pm-10:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, American, Fast food, Beer/Wine, Non-veg",
+    "description": "Serves meat, vegan options available. Originating in Newtown, Mary's is a burger restaurant and bar. The whole menu lists every item that can be veganised."
+  },
+  {
+    "name": "Masala Kitchen",
+    "address": "211 Bent St, Sydney, New South Wales",
+    "phone": "+61-293802613",
+    "open_hours": "Tue-Sun 11:00am-3:00pm, 5:00pm-10:00pm",
+    "cuisine": "Cuisine: Lacto, Indian, Beer/Wine, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Indian cuisine with a separate vegan section in the menu. Includes 7 vegan mains which includes laal dal, mixed veg, mushroom potato n peas masala, chana masala and aloo jeera. Outdoor balcony space and mezzanine lounge/bar."
+  },
+  {
+    "name": "Masala Kitchen - Rosenthal Ave",
+    "address": "T1/2 2 Rosenthal Ave (at https://masalakitchen.com.au), Sydney, New South Wales",
+    "phone": "+61-421728815",
+    "open_hours": "Now Open:                     Mon-Sun 11:00am-10:00pm",
+    "cuisine": "Cuisine: Lacto, Indian, Beer/Wine, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Indian cuisine with a separate vegan section in the menu. Includes 7 vegan mains which includes laal dal, mixed veg, mushroom potato n peas masala, chana masala and aloo jeera."
+  },
+  {
+    "name": "Niji Sushi Bar",
+    "address": "333 Anzac Parade, Sydney, New South Wales",
+    "phone": "+61-280684849",
+    "open_hours": "Now Open:                     Mon-Sun 12:00pm-9:30pm",
+    "cuisine": "Cuisine: Japanese, Non-veg",
+    "description": "Serves meat, vegan options available. Sushi restaurant with a couple of vegan items. Veggie gyoza, avocado sushi, veggie sushi, edamame etc."
+  },
+  {
+    "name": "Nook Clarence St",
+    "address": "83 Clarence St, Sydney, New South Wales",
+    "phone": "+61-292995050",
+    "open_hours": "Mon-Fri 7:00am-4:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Salad bar, Honey, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Offers vegan dishes labelled on the menu such as a brekkie bowl, a mushroom melt with vegan cheese and a Beyond burger. Several plant milks available for drinks."
+  },
+  {
+    "name": "O Bar and Dining",
+    "address": "Australia Square, 47, 264 George St, Sydney, New South Wales",
+    "phone": "+61-292479777",
+    "open_hours": "Now Open:                     Mon-Tue 5:00pm-11:00pm, Wed-Thu 5:00pm-11:30pm, Fri 12:00pm-12:00am, Sat 5:00pm-12:00am, Sun 5:00pm-11:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Beer/Wine, Honey, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Ask for the alternate vegan menu. Or ask which dishes in the regular menu can be adapted for vegans."
+  },
+  {
+    "name": "O'Uchi",
+    "address": "80 Clarence St, Sydney, New South Wales",
+    "phone": "+61-292993237",
+    "open_hours": "Now Open:                     Mon-Fri 11:30am-2:30pm, 5:00pm-10:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Japanese, Organic, Gluten-free, Honey, Non-veg",
+    "description": "Serves meat, vegan options available. Japanese restaurant offering vegan ramen, rice bowls, curry, tofu dishes and more. Has labeled vegetarian options, many which can be made vegan."
+  },
+  {
+    "name": "Organism",
+    "address": "288 Crown St, Darlinghurst  (at Oxford St), Sydney, New South Wales",
+    "phone": "+61-425264938",
+    "open_hours": "Mon 8:00am-5:00pm, Wed 8:00am-5:00pm, Thu-Fri 8:00am-6:00pm, Sat-Sun 8:00am-5:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, International, Macrobiotic, Organic, Raw, Salad bar, Juice bar, Take-out, Asian, Bakery, Fusion, Gluten-free, Honey, Australian, Korean, Non-veg",
+    "description": "Serves meat, vegan options available. Offers healthy food including some marked vegan dishes such as a tofu salad and tofu l'ancienne roll."
+  },
+  {
+    "name": "Otto Ristorante",
+    "address": "Area 8/6, Woolloomooloo Wharf, 6 Cowper Wharf Rd, Sydney, New South Wales",
+    "phone": "+61-293687488",
+    "open_hours": "Now Open:                     Mon-Sun 12:00pm-10:30pm",
+    "cuisine": "Cuisine: Lacto, Italian, Beer/Wine, Non-veg",
+    "description": "Serves meat, vegan options available. Upscale Italian food restaurant located on the waterfront. Will provide a dedicated vegan menu on request. The staff are aware of vegan dietary requirements."
+  },
+  {
+    "name": "P'Nut Street Noodles",
+    "address": "26 Playfair St, The Rocks, Sydney, New South Wales",
+    "phone": "+61-292478554",
+    "open_hours": "Now Open:                     Mon-Sun 11:30am-8:00pm",
+    "cuisine": "Cuisine: Thai, Fast food, Take-out, Asian, Non-veg",
+    "description": "Serves meat, vegan options available. Street food kiosk (with seating and toilets nearby) offering a variety of noodle dishes and stir fries including several marked vegan dishes, plus smaller bites such as tofu puffs and spring rolls."
+  },
+  {
+    "name": "P'Nut Street Noodles - Sydney Olympic Park",
+    "address": "Tenancy 6 Dawn Fraser Ave (at Olympic Blvd), Sydney, New South Wales",
+    "phone": "+61-297635500",
+    "open_hours": "Now Open:                     Mon-Sun 11:30am-9:00pm",
+    "cuisine": "Cuisine: Thai, Fast food, Take-out, Asian, Non-veg",
+    "description": "Serves meat, vegan options available. Street food kiosk offering a variety of noodle dishes and stir fries including several marked vegan dishes, plus smaller bites such as tofu puffs and spring rolls."
+  },
+  {
+    "name": "Pablo & Rusty's",
+    "address": "161 Castlereagh St, Sydney, New South Wales",
+    "phone": "+61-298076293",
+    "open_hours": "Mon-Fri 8:00am-4:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Honey, Australian, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Cafe with vegan breakfast and lunch dishes available."
+  },
+  {
+    "name": "Pizza and Co",
+    "address": "481 Darling Rd , Sydney, New South Wales",
+    "phone": "+61-283873125",
+    "open_hours": "Tue-Sun 5:00pm-10:00pm",
+    "cuisine": "Cuisine: Lacto, American, Pizza, Italian, Western, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Pizza restaurant offering vegan several vegan pizzas on the menu, includng a supreme bizza, BBQ \"chicken\" pizza, and more."
+  },
+  {
+    "name": "Pizza Box",
+    "address": "186 Railway Parade, Sydney, New South Wales",
+    "phone": "+61-295539579",
+    "open_hours": "Mon-Wed 6:00am-5:00pm, Thu-Sat 6:00am-8:00pm",
+    "cuisine": "Cuisine: Lacto, Pizza, Fast food, Take-out, Bakery, Catering, Lebanese, Non-veg",
+    "description": "Serves meat, vegan options available. Many of the wraps and pizzas can be made vegan when made with vegan cheese."
+  },
+  {
+    "name": "Planar",
+    "address": "Shop C08, Ground Floor, Sydney, New South Wales",
+    "phone": "+61-292126789",
+    "open_hours": "Now Open:                     Mon-Sun 7:00am-12:00am",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Restaurant with a separate vegan menu including a burger, salads, hummus dip, and more."
+  },
+  {
+    "name": "Poked Fresh Hawaiian",
+    "address": "264 George St, Sydney, New South Wales",
+    "phone": "+61-422066343",
+    "open_hours": "Mon-Fri 10:30am-3:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, International, Salad bar, Take-out, Honey, Hawaiian, Non-veg",
+    "description": "Serves meat, vegan options available. Takeaway Hawaian pok\u00e9 bowls with vegan options."
+  },
+  {
+    "name": "Radisson Blu Plaza Hotel",
+    "address": "27 O'Connell St (at Hunter St), Sydney, New South Wales",
+    "phone": "+61-282140000",
+    "open_hours": "Now Open:                     Mon-Sun 7:30am-11:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Beer/Wine, British, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Specialty vegan high tea is available at The Fax Bar, as well as a selection of vegan wines and meals."
+  },
+  {
+    "name": "Sabbaba",
+    "address": "Westfield Sydney, Level 5 foodcourt, 77 Castlereagh St, Sydney, New South Wales",
+    "phone": "+61-292233315",
+    "open_hours": "Mon-Wed 9:00am-6:00pm, Thu 9:00am-9:00pm, Fri-Sat 9:00am-8:00pm, Sun 10:00am-6:00pm",
+    "cuisine": "Cuisine: Lacto, Mediterranean, Take-out, Middle Eastern, Israeli, Non-veg",
+    "description": "Serves meat, vegan options available. Israeli-Middle Eastern takeaway eatery in the Pitt Street Mall. Has a number of vegetarian items marked on the menu. Vegans could have pita pockets and the falafel in a pita, bowl, salad, or on a plate. The falafel balls are freshly made and green inside. Pita fillings include hummus, tahini, chickpeas, eggplant, red  and green chilli, pickles."
+  },
+  {
+    "name": "Saigon Summer",
+    "address": "Summer Hill, 12 Lackey St, Sydney, New South Wales",
+    "phone": "+61-283875621",
+    "open_hours": "Now Open:                     Mon-Sat 9:00am-9:30pm, Sun 9:00am-8:00pm",
+    "cuisine": "Cuisine: Fast food, Take-out, Asian, Vietnamese, Non-veg",
+    "description": "Serves meat, vegan options available. Vietnamese street food eatery with a vegan menu section that includes banh mi, pho, rice paper rolls, spring rolls, and vermicelli salad."
+  },
+  {
+    "name": "Schnitz",
+    "address": "7 Macquarie Pl, Sydney, New South Wales",
+    "phone": "+61-292524006",
+    "open_hours": "Mon-Sun 9:00am-3:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Fast food, European, Fusion, German, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Schnitzel eatery with a vegan schnitzel option available in meals, rolls, and wraps. Offers vegan mayo and cheese."
+  },
+  {
+    "name": "V Stars Sydney",
+    "address": "95 Palmer St, Woolloomooloo, Sydney, New South Wales",
+    "phone": "+61-403777773",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Meet-up group under the auspice of Transition Sydney. Welcomes everyone and encourages a plant-based lifestyle. Organizes a variety of events."
+  },
+  {
+    "name": "Vegan Mama",
+    "address": "Sydney area, Sydney, New South Wales",
+    "phone": "+61-468834264",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Online based vegan meal delivery service. Offers fresh and frozen weekly meal options. Order by Monday noon for delivery on Wednesday. No minimum order, no weekly subscriptions. Visit website to order. Currently delivering in the Greater Sydney area."
+  },
+  {
+    "name": "Vejoes - Food Truck",
+    "address": "Sydney areas, Sydney, New South Wales",
+    "phone": "+61-410992606",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": null,
+    "description": "Vegetarian food truck parking at different locations in & surrounding Sydney, since early-2016 - check webpage for latest schedule. Sells items like haloumi burger, black bean quesadilla, and vegan butter chicken curry on rice. Take-out only."
+  },
+  {
+    "name": "Cafe Sydney",
+    "address": "5th Floor, Customs House, 31 Alfred St, Circular Quay, Sydney, New South Wales",
+    "phone": "+61-292518683",
+    "open_hours": "Now Open:                     Mon-Fri 12:00pm-11:00pm, Sat 5:00pm-11:00pm, Sun 12:00pm-3:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Western, Beer/Wine, European, Non-veg",
+    "description": "Serves meat, vegan options available. Upmarket restaurant with harbor. Has a vegan menu option with 3 choices in each 3 courses - ask for it. Sample dishes might be a peach gazpacho, potato dosa with okra, and vacherin meringue (chickpea brine) with passion fruit, coconut flakes, and sorbet."
+  },
+  {
+    "name": "Cali Press",
+    "address": "8/151 Clarence St, Sydney, New South Wales",
+    "phone": "+61-292622444",
+    "open_hours": "Mon-Fri 7:00am-4:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, International, Salad bar, Juice bar, Take-out, Gluten-free, Honey, Non-veg",
+    "description": "Serves meat, vegan options available. Health focused caf\u00e9 chain serving vegan warm bowls, salads, sandwiches and toasts. Also offers a\u00e7ai bowls, superfood smoothies, cold pressed juices, tonics and coffee."
+  },
+  {
+    "name": "Cali Press - Australia Square",
+    "address": "264 George St (at Australia Square), Sydney, New South Wales",
+    "phone": "+61-292416956",
+    "open_hours": "Mon-Fri 8:00am-2:30pm",
+    "cuisine": "Cuisine: Lacto, Ovo, International, Salad bar, Juice bar, Take-out, Gluten-free, Honey, Non-veg",
+    "description": "Serves meat, vegan options available. Health focused caf\u00e9 chain serving vegan warm bowls, salads, sandwiches and toasts. Also offers a\u00e7ai bowls, superfood smoothies, cold pressed juices, tonics and coffee."
+  },
+  {
+    "name": "Cash Only Diner",
+    "address": "1 Barrack St, Sydney, New South Wales",
+    "phone": "+61-450862147",
+    "open_hours": "Mon-Tue 12:00pm-4:00pm, Wed-Sat 12:00pm-10:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Beer/Wine, Take-out, Asian, Vietnamese, Honey, Non-veg",
+    "description": "Serves meat, vegan options available. Offers Vietnamese food with several vegan dishes and more that can be changed to make them vegan."
+  },
+  {
+    "name": "Charlie & Franks",
+    "address": "110 Walker St, North Sydney, Sydney, New South Wales",
+    "phone": "+61-289201967",
+    "open_hours": "Mon-Fri 6:00am-4:00pm, Sat 7:00am-2:00pm",
+    "cuisine": "Cuisine: Beer/Wine, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Vegan options include a bowl consisting of braised eggplant, sweet potato, slaw, and avocado with peanut dressing; tahini avo on toast. Coffee, kombucha, and alcohol."
+  },
+  {
+    "name": "Chedi Thai",
+    "address": "Shop G3 182 Blues Point R, Sydney, New South Wales",
+    "phone": "+61-280212828",
+    "open_hours": "Mon 7:00am-4:00pm, Tue-Thu 7:00am-10:00pm, Fri 7:00am-10:30pm, Sat 8:00am-10:30pm",
+    "cuisine": "Cuisine: Ovo, Thai, Delivery, Take-out, Asian, Non-veg",
+    "description": "Serves meat, vegan options available. Family-run Thai food restaurant in McMahon\u2019s Point. Menu does not mark what's vegan, but staff can advise on dishes that are or can be made vegan - including pad thai, cashew, tofu vegetable stir fry, green curry tofu, and ginger stir fried vegetables."
+  },
+  {
+    "name": "Criniti's",
+    "address": "461 Darling Dr, Sydney, New South Wales",
+    "phone": "+61-280267700",
+    "open_hours": "Now Open:                     Mon-Thu 11:00am-10:30pm, Fri-Sat 11:00am-11:30pm, Sun 11:00am-10:30pm",
+    "cuisine": "Cuisine: Lacto, Pizza, Italian, Beer/Wine, Non-veg",
+    "description": "Serves meat, vegan options available. Italian restaurants with vegan options labeled on the menu. Choices include starter fries and bruschetta, main dish of pasta, salads, wood-fired pizza with vegan cheese, and dessert."
+  },
+  {
+    "name": "Cruise Bar",
+    "address": "Circular Quay W, Sydney, New South Wales",
+    "phone": "+61-292511188",
+    "open_hours": "Wed-Sun 11:30am-12:00am",
+    "cuisine": "Cuisine: Lacto, Ovo, Pizza, International, Italian, Beer/Wine, Honey, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Waterside reataurant with vegan sharing options, burger, pizza and salad. Also serving alcoholic beverages and cocktails."
+  },
+  {
+    "name": "Cubby's Kitchen",
+    "address": "Corner of Young St & Loftus Ln (at Bridge St), Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Now Open:                     Mon 9:00am-9:00pm",
+    "cuisine": "Cuisine: Mediterranean, Middle Eastern, Non-veg",
+    "description": "Serves meat, vegan options available. Middle Eastern cuisine with some vegetarian and vegan items. Relocated from Surry Hills."
+  },
+  {
+    "name": "Daily Greens",
+    "address": "2/16 Glenmore Rd, Paddington (at Oxford St), Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon 7:00am-5:00pm, Tue-Wed 9:00am-5:00pm, Thu-Sun 7:00am-7:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, International, Organic, Fast food, Beer/Wine, Delivery, Take-out, Catering, Fusion, Gluten-free, Honey, Breakfast, Non-veg",
+    "description": "Serves meat, vegan options available. Offers a variety of vegan dishes made with ingredients from Australia. Vegan items are labelled and include toasts, bowls and build your own bowls. Also has plant milks for drinks."
+  },
+  {
+    "name": "Devoured ",
+    "address": "38 Denman Parade, Normanhurst  (at Buckingham Ave ), Sydney, New South Wales",
+    "phone": "+61-284061190",
+    "open_hours": "Mon-Thu 9:00am-4:00pm, Fri-Sun 9:00am-9:00pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Pizza, Italian, Western, Take-out, Non-veg",
+    "description": "Serves meat, vegan options available. A cafe serving pizza and desserts. Vegan cheese is available for pizzas."
+  },
+  {
+    "name": "Din Tai Fung",
+    "address": "Westfield Sydney, Pitt St, Sydney, New South Wales",
+    "phone": "+61-282467032",
+    "open_hours": "Mon-Wed 10:00am-6:30pm, Thu 10:00am-9:00pm, Fri-Sat 10:00am-8:00pm, Sun 10:00am-6:00pm",
+    "cuisine": "Cuisine: Ovo, Chinese, Take-out, Taiwanese, Non-veg",
+    "description": "Serves meat, vegan options available. Taiwanese restaurant group with franchise operations in multiple countries. Its signature specialty is dumplings. Menu labels the veg dishes with vegan choices including the oriental salad, vegetable fried rice, red bean xiao long bao and red bean bao. Vegetable stock can be requested for the vegetable wonton & spicy dried noodle, dan dan noodle, and vegetable wonton soup. Specify if you don't want egg or oyster sauce just to be sure."
+  },
+  {
+    "name": "Domino's Pizza - Central Buisness District",
+    "address": "Jamison St & Lang St, Sydney, New South Wales",
+    "phone": "+61-282752120",
+    "open_hours": "Now Open:                     Mon-Thu 11:00am-11:00pm, Fri-Sat 11:00am-1:00am, Sun 11:00am-11:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, Lacto, American, Pizza, Italian, Fast food, Delivery, Take-out, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Fast food pizzeria chain from the US. The Australian and New Zealand outlets offer multiple vegan pizzas using vegan cheese and mock meats. Example of varieties include vegan Hawaiian, taco fiesta, spicy veg trio, margherita, avocado veg, and vegan supreme. Has vegan cheesy garlic bread; the regular garlic bread is already vegan. Gluten-free base is vegan."
+  },
+  {
+    "name": "Domino's Pizza - Woolloomooloo",
+    "address": "Retail A, 65 Cowper Wharf Rdwy, Woolloomooloo, Sydney, New South Wales",
+    "phone": "+61-292968720",
+    "open_hours": "Now Open:                     Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-12:00am, Sun 11:00am-10:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, Lacto, American, Pizza, Italian, Fast food, Delivery, Take-out, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Fast food pizzeria chain from the US. The Australian and New Zealand outlets offer multiple vegan pizzas using vegan cheese and mock meats. Example of varieties include vegan Hawaiian, taco fiesta, spicy veg trio, margherita, avocado veg, and vegan supreme. Has vegan cheesy garlic bread; the regular garlic bread is already vegan. Gluten-free base is vegan."
+  },
+  {
+    "name": "Eat Fuh",
+    "address": "118 Belmore Rd, Sydney, New South Wales",
+    "phone": "+61-283853459",
+    "open_hours": "Now Open:                     Mon-Sun 9:00am-8:00pm",
+    "cuisine": "Cuisine: Ovo, Take-out, Asian, Vietnamese, Non-veg",
+    "description": "Serves meat, vegan options available. Offers spring rolls, rice paper rolls, vegan pho noodle soup, vegan laksa, Vietnamese vegan curry & Vietnamese vegan ragout pasta. One of a few branches."
+  },
+  {
+    "name": "El Camino Cantina",
+    "address": "18 Argyle St, The Rocks, Sydney, New South Wales",
+    "phone": "+61-292595668",
+    "open_hours": "Now Open:                     Mon-Thu 12:00pm-12:00am, Fri-Sat 12:00pm-1:00am, Sun 12:00pm-10:00pm",
+    "cuisine": "Cuisine: Vegan-friendly, Lacto, American, Beer/Wine, Mexican, Non-veg",
+    "description": "Serves meat, vegan options available. Offers a separate vegan menu which includes tacos, nachos, a fajita and a Texan salad. Part of a chain."
+  },
+  {
+    "name": "Employees Only",
+    "address": "9a Barrack St, Sydney, New South Wales",
+    "phone": "+61-280847490",
+    "open_hours": "Call for hours - tell us",
+    "cuisine": "Cuisine: Lacto, Beer/Wine, European, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. New York-style cocktail bar and restaurant in Sydney\u2019s CBD. Vegan marked on the menu include saffron risotto, crispy spiced tofu with eggplant, and char-grilled house garlic flatbread with smoked eggplant puree & hummus dip."
+  },
+  {
+    "name": "Fishbowl",
+    "address": "500 George St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon-Wed 10:30am-5:30pm, Thu 10:30am-7:30pm, Fri 10:30am-5:30pm, Sat-Sun 11:30am-3:30pm",
+    "cuisine": "Cuisine: Lacto, Japanese, Raw, Salad bar, Take-out, Asian, Gluten-free, Non-veg",
+    "description": "Serves meat, vegan options available. Asian chain restaurant specializing in bowls. Vegan options include the 'Tofu Boys' bowl or build-your-own-bowls that can be made vegan. Offers a variety of vegan fillings and sauces."
+  },
+  {
+    "name": "Franks 'n' Cumin",
+    "address": "FC4 Hunter Connection (top floor), 7 Hunter St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon-Fri 7:00am-3:30pm",
+    "cuisine": "Cuisine: Fast food, Take-out, Malaysian, Non-veg",
+    "description": "Serves meat, vegan options available. Food court Malaysian food. Variety of veggie curries served with rice. Owner confirmed that veggie dishes are also vegan. Has discounted food packs after 3pm."
+  },
+  {
+    "name": "Fratelli Famous",
+    "address": "Sydney Westfield, Pitt St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Now Open:                     Mon-Wed 8:00am-7:30pm, Thu 8:00am-9:30pm, Fri 8:00am-7:30pm, Sat 9:00am-7:30pm, Sun 10:00am-6:30pm                  Closing soon.",
+    "cuisine": "Cuisine: Lacto, Pizza, Italian, Fast food, Take-out, Non-veg",
+    "description": "Serves meat, vegan options available. Build-your-own pizzeria chain. Has vegan cheese. Menu includes one vegan pizza called \"spicy vegan.\""
+  },
+  {
+    "name": "Glass Brasserie",
+    "address": "Level 2/488, George St, Sydney, New South Wales",
+    "phone": "+61-292656068",
+    "open_hours": "Now Open:                     Mon-Fri 12:00pm-3:00pm, Mon-Sat 6:00pm-9:30pm, Sun 5:00pm-9:30pm",
+    "cuisine": "Cuisine: Lacto, Ovo, Beer/Wine, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Offers a range of specified vegan dishes for starters, mains, and dessert. Also has a separate vegan degustation menu."
+  },
+  {
+    "name": "Good Pho Mi",
+    "address": "74 Darlinghurst Rd, Potts Point, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Now Open:                     Mon 9:00am-11:00pm, Tue-Wed 10:00am-11:00pm, Thu-Sat 10:00am-12:00am, Sun 10:00am-9:00pm",
+    "cuisine": "Cuisine: Ovo, Take-out, Asian, Vietnamese, Non-veg",
+    "description": "Serves meat, vegan options available. Vietnamese restaurant where the menu shows clearly marked vegan version with mock meat (seitan). Has vegan pho, spring roll, and banh mi. Many other dishes can be made vegan on request- ask."
+  },
+  {
+    "name": "Gozleme King",
+    "address": "Westfield Sydney Central Plaza, 1, 450 George St, Sydney, New South Wales",
+    "phone": "+61-411105495",
+    "open_hours": "Mon-Wed 9:30am-6:30pm, Thu-Sat 9:30am-9:00pm, Sun 10:00am-6:00pm",
+    "cuisine": "Cuisine: Lacto, Mediterranean, Fast food, Take-out, Middle Eastern, Turkish, Non-veg",
+    "description": "Serves meat, vegan options available. Turkish fast food restaurant chain with a vegan gozleme section on the menu including cheese and spinach, vegetarian, marinated chilli potato, veggie plus, and hot and spicy veggie (mild)."
+  },
+  {
+    "name": "Grill'd",
+    "address": "Market St, Sydney, New South Wales",
+    "phone": "+61-292237474",
+    "open_hours": "Now Open:                     Mon-Wed 11:00am-9:00pm, Thu-Sat 11:00am-10:00pm, Sun 11:00am-8:00pm",
+    "cuisine": "Cuisine: Lacto, Western, Fast food, Take-out, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Burger restaurant chain with outlets across Australia. Offers offer labeled vegan burgers as well as the option to build-your-own that can be made vegan by using the Impossible patty or Fable patty. Has vegan cheese and gluten-free buns. Chips are vegan. NOTE: Serves lamb."
+  },
+  {
+    "name": "Grill'd - Westfield",
+    "address": "188 Pitt St, Sydney, New South Wales",
+    "phone": "+61-292237474",
+    "open_hours": "Now Open:                     Mon-Wed 11:00am-7:30pm, Thu 11:00am-9:00pm, Fri 11:00am-8:00pm, Sat-Sun 11:00am-7:30pm                  Closing soon.",
+    "cuisine": "Cuisine: Lacto, Western, Fast food, Take-out, Australian, Non-veg",
+    "description": "Serves meat, vegan options available. Burger restaurant chain with outlets across Australia. Offers offer labeled vegan burgers as well as the option to build-your-own that can be made vegan by using the Impossible patty or Fable patty. Has vegan cheese and gluten-free buns. Chips are vegan. NOTE: Serves lamb."
+  },
+  {
+    "name": "Guzman y Gomez",
+    "address": "T2/8/201 Sussex St, Sydney, New South Wales",
+    "phone": "+61-280148532",
+    "open_hours": "Mon-Wed 7:30am-4:00pm, Thu-Fri 7:30am-5:00pm",
+    "cuisine": "Cuisine: Lacto, Fast food, Beer/Wine, Take-out, Mexican, Non-veg",
+    "description": "Serves meat, vegan options available. Mexican fast food taqueria franchise founded 2006 in Australia. Menu has lacto-vegetarian dishes, of which a few may be prepared without sour cream or cheese when you ask, such as veg burrito. Guacamole is dairy-free. Mex chimmi mayo is vegan."
+  },
+  {
+    "name": "Hole in the Wall",
+    "address": "229 Macquarie St, Sydney, New South Wales",
+    "phone": "Add a phone number",
+    "open_hours": "Mon-Fri 7:00am-4:00pm",
+    "cuisine": "Cuisine: Western, Fast food, Take-out, Take-out only, Non-veg",
+    "description": "Serves meat, vegan options available. Small takeaway sandwich shop selling a number of veggie sandwiches, burgers, fresh juice, and muffins. Could design your own sandwich with the option to add vegan cheese. Try the tempeh burger. Take-out only."
+  }
+]
