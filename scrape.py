@@ -9,13 +9,16 @@ import time
 # !apt install chromium-chromedriver
 # !cp /usr/lib/chromium-browser/chromedriver /usr/bin
 
-import sys
+import sys,os
 sys.path.insert(0,'/usr/lib/chromium-browser/chromedriver')
 from selenium import webdriver
-
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 # scrape all pages
 def scrape_all_pages():
+    print('scraping website')
     # target URL
     url='https://www.happycow.net/oceania/australia/new_south_wales/sydney/'
 

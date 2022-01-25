@@ -3,56 +3,67 @@ import requests
 import pickle
 from bs4 import BeautifulSoup
 import codecs
-import time
-import json
+import time 
 
+# set up background webdriver 
+# !apt install chromium-chromedriver
+# !cp /usr/lib/chromium-browser/chromedriver /usr/bin
 
+import sys,os
+sys.path.insert(0,'/usr/lib/chromium-browser/chromedriver')
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-def parse_all_pages():
-    item_list = []
+# scrape all pages
+def scrape_all_pages():
+    print('scraping website')
+    # target URL
+    url='https://www.happycow.net/oceania/australia/new_south_wales/sydney/'
 
-    # reading scraped html files from local storage
-    dir_name = "scraped_html" 
-    for page in os.listdir(dir_name):
-    file_path = os.path.join(dir_name,page)
-    print("reading " + file_path)
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--no-sandbox')
+    chrome_options.add_argument('--disable-dev-shm-usage')
+    wd = webdriver.Chrome('chromedriver',chrome_options=chrome_options)
 
-    def parse_one_item(venue_list_item):
-        item_dict = {}
+    # get content of URL
+    wd.get(url)
 
-        item_dict['name'] = venue_list_item.h4.text
-        item_dict['address'] = venue_list_item.find_all('p')[0].text.replace('\n', ' ').strip()
-        item_dict['phone'] = venue_list_item.find_all('p')[1].text.replace('\n', ' ').strip()
-        item_dict['open_hours'] = venue_list_item.find_all('p')[2].text.replace('\n', ' ').strip()
-        # if item for restaurant will have cuisine, shop won't have, so just store None
-        item_dict['cuisine'] = venue_list_item.find_all('p')[3].text.replace('\n', ' ').strip() if 'Cuisine' in venue_list_item.find_all('p')[3].text else 'N/A'
-        item_dict['description'] = venue_list_item.find_all('p')[-1].text.replace('\n', ' ').strip()
-
-        return item_dict
-
-
-    def parse_all_items_one_page(soup, item_list):
-        venue_list_items = soup.findAll('div',{'class':re.compile(r"^venue-list-item")})
-        for venue_list_item in venue_list_items:
-            item_parsed = parse_one_item(venue_list_item)
-            print(item_parsed)
-            # print(len(item_list))
-            item_list.append(item_parsed)
-
-        return item_list    
-
-
-    with open(file_path) as fp:
-        soup = BeautifulSoup(fp, 'html.parser')
-        item_list = parse_all_items_one_page(soup, item_list)
-
-    # save json 
-    f = open(os.path.join('parsed_json','items_list.json'), 'w')
-    f.write(json.dumps(item_list, indent=2))
-    f.close()
-
-    return item_list
-
+    # get file path to save page
+    dir_name = "scraped_html"    
+    while True:
+      time.sleep(5)
+      page_num = wd.find_element(By.XPATH,"//nav[@class='search-pager text-center']/*/li/a[@title='Current page']")
+      file_name = "page_" + page_num.get_attribute('data-page')   
+      print('page ' + page_num.get_attribute('data-page') )
+      n = os.path.join(dir_name,file_name)    
+      # open file in write mode with encoding
+      f = codecs.open(n, "w", "utf−8")
+      # write page source content to file
+      f.write(wd.page_source)
+      # if not last page then click on next page:
+      
+      
+      if len(wd.find_elements(By.XPATH,"//nav[@class='search-pager text-center']/*/li[@class='next']")) > 0 :          
+        # printing url to log progress
+        time.sleep(10)
+        log=WebDriverWait(wd,10).until(EC.presence_of_all_elements_located((By.XPATH ,"//nav[@class='search-pager text-center']/*/li[@class='next']/a[@class='pagination-link']")))
+        print(log[0].get_attribute('href'))
+        # click next page file
+        more_buttons = wd.find_elements(By.XPATH,"//nav[@class='search-pager text-center']/*/li[@class='next']/a[@class='pagination-link']/span")
+        for x in range(len(more_buttons)):
+          if more_buttons[x].is_displayed():
+              wd.execute_script("arguments[0].click();", more_buttons[x])
+              time.sleep(5)
+        # element=WebDriverWait(wd,10).until(EC.presence_of_all_elements_located((By.XPATH ,"//nav[@class='search-pager text-center']/*/li[@class='next']/a[@class='pagination-link']/span")))
+        # element[0].click()
+        continue
+      else :
+          wd.quit()
+          break
 
 if __name__ == '__main__':
-    parse_all_pages()
+    scrape_all_pages()
+

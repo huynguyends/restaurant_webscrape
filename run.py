@@ -25,10 +25,14 @@ def start():
     for attempt in range(n_retry):
         try:
             scrape_all_pages()
-        except:
+        except Exception as e:
+            print (e.__doc__)
+            print (e.message)
             time.sleep(5)
+            print('retrying')
             continue
         else:
+            print('scraping sucess')
             break
     else:
         print('Scraping failed')
