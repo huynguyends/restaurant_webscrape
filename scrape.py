@@ -15,7 +15,7 @@ from selenium import webdriver
 
 
 # scrape all pages
-def scrape_all_pages(wd):
+def scrape_all_pages():
     # target URL
     url='https://www.happycow.net/oceania/australia/new_south_wales/sydney/'
 
@@ -61,4 +61,6 @@ def scrape_all_pages(wd):
           wd.quit()
           break
 
-scrape_all_pages(wd)
+if __name__ == '__main__':
+    scrape_all_pages()
+
